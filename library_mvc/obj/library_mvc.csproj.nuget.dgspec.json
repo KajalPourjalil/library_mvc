@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\vscode\\library_mvc\\library_mvc\\library_mvc.csproj": {}
+    "h:\\vscode\\library_mvc\\library_mvc\\library_mvc.csproj": {}
   },
   "projects": {
-    "H:\\vscode\\library_mvc\\library_mvc\\library_mvc.csproj": {
+    "h:\\vscode\\library_mvc\\library_mvc\\library_mvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\vscode\\library_mvc\\library_mvc\\library_mvc.csproj",
+        "projectUniqueName": "h:\\vscode\\library_mvc\\library_mvc\\library_mvc.csproj",
         "projectName": "library_mvc",
-        "projectPath": "H:\\vscode\\library_mvc\\library_mvc\\library_mvc.csproj",
+        "projectPath": "h:\\vscode\\library_mvc\\library_mvc\\library_mvc.csproj",
         "packagesPath": "C:\\Users\\tivadigi\\.nuget\\packages\\",
-        "outputPath": "H:\\vscode\\library_mvc\\library_mvc\\obj\\",
+        "outputPath": "h:\\vscode\\library_mvc\\library_mvc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tivadigi\\AppData\\Roaming\\NuGet\\NuGet.Config"

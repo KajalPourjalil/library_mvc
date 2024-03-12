@@ -1,0 +1,8 @@
+h:\vscode\library_mvc\library_mvc\obj\Debug\net8.0\library_mvc.GeneratedMSBuildEditorConfig.editorconfig
+h:\vscode\library_mvc\library_mvc\obj\Debug\net8.0\library_mvc.AssemblyInfoInputs.cache
+h:\vscode\library_mvc\library_mvc\obj\Debug\net8.0\library_mvc.AssemblyInfo.cs
+h:\vscode\library_mvc\library_mvc\obj\Debug\net8.0\library_mvc.csproj.CoreCompileInputs.cache
+h:\vscode\library_mvc\library_mvc\obj\Debug\net8.0\library_mvc.MvcApplicationPartsAssemblyInfo.cache
+h:\vscode\library_mvc\library_mvc\obj\Debug\net8.0\library_mvc.RazorAssemblyInfo.cache
+h:\vscode\library_mvc\library_mvc\obj\Debug\net8.0\library_mvc.RazorAssemblyInfo.cs
+h:\vscode\library_mvc\library_mvc\obj\Debug\net8.0\library_mvc.sourcelink.json
