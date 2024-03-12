@@ -9,7 +9,7 @@ namespace library_mvc.Models
             new Category { CategoryId = 3, Name = "Dracula", Author = "Bram Stoker"}
         };
 
-        public static void AddCategoory(Category category)
+        public static void AddCategory(Category category)
         {
             var maxId = _categories.Max(x => x.CategoryId);
             category.CategoryId = maxId + 1;
